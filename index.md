@@ -94,6 +94,4 @@ void loop() {
 
 # References
 - https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
