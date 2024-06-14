@@ -7,7 +7,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Abhi M | Saint Francis High School | Mechanical Engineering | Incoming Senior
+| Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
 <!--
 
