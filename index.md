@@ -101,4 +101,5 @@ The code was fairly simple. All it was was an if-else loop that took whether the
 
 # References
 - https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/
+- https://www.youtube.com/watch?v=fq5VMYeWftI&t=3s&ab_channel=StarHive
 
