@@ -94,7 +94,7 @@ void loop() {
 | 9V Batteries | What the item is used for | $6.58 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Energizer-Alkaline-General-Purpose-Battery/dp/B00003IE4E)"> Link </a> |
 | JST Battery Connectors | What the item is used for | $8.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/daier-Micro-2-Pin-Connector-Female/dp/B01DUC1O68)"> Link </a> |
 | 9V Battery Clips | What the item is used for | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Female to Female Connectors | What the item is used for | $6.98 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/EDGELEC-Breadboard-1pin-1pin-Connector-Multicolored/dp/B07GD312VG/ref=sr_1_4?crid=11X4PIA5EMMZO&keywords=female+to+female+connectors&qid=1689781475&s=industrial&sprefix=female+to+female+connector%2Cindustrial%2C150&sr=1-4)"> Link </a> |
+| Female to Female Connectors | What the item is used for | $6.98 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/]"> Link </a> |
 
 # Starter Project - Arduino
 
