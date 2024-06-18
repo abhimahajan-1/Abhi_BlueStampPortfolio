@@ -78,6 +78,10 @@ void loop() {
 
 }
 ```
+# Schematics
+![Headstone Image](schematics_3.png)
+![Headstone Image](schematics_2.png)
+![Headstone Image](schematics_1.png)
 
 # Bill of Materials
 
