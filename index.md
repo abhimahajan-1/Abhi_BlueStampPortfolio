@@ -40,22 +40,29 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
+-->
+
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FWRxd0kS98?si=ZkONE2Y5-EbJ_WSX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+My project is a phone-controlled robotic arm. The assembly consists of three primary parts: the power source, the Arduino Nano board, and the robotic arm itself. For the power source, I used 5 standard Double-A batteries, that were 1.5 volts each. Because I had to use a different power source than what the default was, I had to solder a couple of the wires from the battery holder to the Arduino Nano.
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
+I had 2 major challenges throughout this phase of the project, the first one being the change in battery source. I had to improvise with 5, 1.5-volt, Double-A batteries rather than using 3.7-volt batteries. The other challenge was that the base of the robotic arm being unstable. This was such a critical problem because it was impairing the performance of the servos, and ultimately, the whole arm, since the servos are entirely responsible for the mobility of the arm in the first place. I decided to hot glue the base for overall stability, and it worked really well. Because the base was sturdy, it'd only make sense that the 
+
+<!--
+For your first milestone, describe what your project is and how you build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-
 -->
+
+# Schematics
+![Headstone Image](schematics_3.png)
+![Headstone Image](schematics_2.png)
+![Headstone Image](schematics_1.png)
 
 # Code
 
@@ -78,10 +85,7 @@ void loop() {
 
 }
 ```
-# Schematics
-![Headstone Image](schematics_3.png)
-![Headstone Image](schematics_2.png)
-![Headstone Image](schematics_1.png)
+
 
 # Bill of Materials
 
