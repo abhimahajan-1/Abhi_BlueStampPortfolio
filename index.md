@@ -74,11 +74,6 @@ For your first milestone, describe what your project is and how you build it. Yo
 # Code
 ```c++
 /*
- * This code applies to cokoino mechanical arm
- * Through this link you can download the source code:
- * https://github.com/Cokoino/CKK0006
- * Company web site:
- * http://cokoino.com/
  *                                     ________
  *                         ----|servo4| 
  *                        |            --------
@@ -92,7 +87,7 @@ For your first milestone, describe what your project is and how you build it. Yo
  *                  |  servo1 |
  *         ____________________
  *         ____________________
- * Fanctions:
+ * Functions:
  * arm.servo1.read();   //read the servo of angle
  * arm.servo2.read();
  * arm.servo3.read();
