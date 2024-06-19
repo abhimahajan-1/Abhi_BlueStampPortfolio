@@ -61,10 +61,12 @@ For your first milestone, describe what your project is and how you build it. Yo
 
 -->
 
+
 # Schematics
 ![Headstone Image](schematics_3.png)
 ![Headstone Image](schematics_2.png)
 ![Headstone Image](schematics_1.png)
+
 
 # Code
 ```c++
