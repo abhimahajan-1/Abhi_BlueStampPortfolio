@@ -70,7 +70,6 @@ For your first milestone, describe what your project is and how you build it. Yo
 
 # Code
 ```c++
-#include<Servo.h>
 Servo myservo1;  // Create a servo class
 Servo myservo2;  // Create a servo class
 Servo myservo3;  // Create a servo class
