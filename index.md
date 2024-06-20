@@ -10,11 +10,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
+
+![Headstone Image](Abhi_M.JPG)
 <!--
-
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
 
 # Final Milestone
 
