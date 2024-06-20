@@ -12,8 +12,8 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
 ![Headstone Image](Abhi_M.JPG)
-<!--
 
+<!--
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -39,7 +39,6 @@ For your second milestone, explain what you've worked on since your previous mil
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
-
 -->
 
 
