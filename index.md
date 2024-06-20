@@ -109,12 +109,12 @@ void loop() {
  int rightX = scaleJoyStick(analogRead(A3));
  int rightY = scaleJoyStick(analogRead(A2));
 
- myservo1.write(myservo1.read()+leftX); // move the robot by the specified amount inputed from the joystick
+ myservo1.write(myservo1.read()+leftX); // move the robot by the specified amount inputted from the joystick
  myservo2.write(myservo2.read()+leftY);
  myservo3.write(myservo3.read()+rightX);
  myservo4.write(myservo4.read()+rightY);
 
- delay(20); // wait 20 millisecond
+ delay(20); // wait 20 milliseconds
 
  }
 ```
