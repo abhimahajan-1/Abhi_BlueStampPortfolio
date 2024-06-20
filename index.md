@@ -168,6 +168,4 @@ void loop() {
 
 
 # References
-- <a href=" https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/">  https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/ </a>
-- https://www.youtube.com/watch?v=fq5VMYeWftI&t=3s&ab_channel=StarHive
-
+- <a href="https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/">  https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/ </a>
