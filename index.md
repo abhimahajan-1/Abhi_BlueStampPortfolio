@@ -32,7 +32,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bqi_ROTRROU?si=08SNxCazZwiXQV6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Coming soon*
+
+*Coming soon
 
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
