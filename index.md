@@ -11,7 +11,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 | Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
 
-![Headstone Image](Abhi_M.JPG)
+<img src = "Abhi_M.JPG" width = "300" height = "150">
 
 <!--
 # Final Milestone
