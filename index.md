@@ -62,9 +62,9 @@ For your first milestone, describe what your project is and how you build it. Yo
 
 
 # Schematics
-![Headstone Image](schematics_3.png)
-![Headstone Image](schematics_2.png)
-![Headstone Image](schematics_1.png)
+<img src = "schematics_3" width = "703" height = "388.5" align = "middle">
+<img src = "schematics_2" width = "703" height = "388.5" align = "middle">
+<img src = "schematics_1" width = "703" height = "388.5" align = "middle">
 
 
 
