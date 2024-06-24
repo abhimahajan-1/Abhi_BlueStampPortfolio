@@ -130,7 +130,7 @@ void loop() {
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 | What the item is used for | $24.50 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| HC-05 Bluetooth Module | What the item is used for | $10.39 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| HC-05 Bluetooth Module | What the item is used for | $10.39 | <a href="https://www.amazon.com/DSD-TECH-HC-05-Pass-through-Communication/dp/B01G9KSAF6/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.VZL1p5RDGQw7c8DXaqrVkS9F3rHeDCI460gr5VIRo5uPOMlM3-9u3RX0YiLfC3bLXgbJ7qm5Nq4v419WtKeMjXuvq02PttQhH655ypd7pyItaBWQuo7HLJwr7Ne0tnIr8t5tpGGJw1pm7O7nBgJC2827qRUcNJBZGMjjHn9669AxOSOkfNEhwGgcYigrAuYSl7XL6AYQOjquhv_zmUV9CNEtu5EbifRNVtjlbo_IpaU.kfqfpXqeO1eBNxvWy4aPXwMaxQ6QOoPryjdkI-oJIRQ&dib_tag=se&keywords=bluetooth+module+hc05&qid=1719269284&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 
 
 
