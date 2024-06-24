@@ -41,7 +41,7 @@ The next function is the ongoing loop, and is the primary part of the code. If t
 
 Lastly is the scaleJoyStick function, which does exactly what it sounds like. It scales down the input received from the remote control from 0-1023 into a readable value from 0-180. Based on the reading, it knows exactly how many degrees to turn the servo by. 
 
-<!-
+<!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
