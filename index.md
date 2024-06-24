@@ -33,13 +33,17 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bqi_ROTRROU?si=08SNxCazZwiXQV6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-*Coming soon
+The second milestone of my project was primarily focused on the software aspect of my project. The full mechanical frame of the robot had been assembled, and now all that was left was to give it specific instructions on what to do and how to act when inputs were received. My code consisted of 3 main functions: the setup, the ongoing loop, and the scaleJoyStick function, which I'll elaborate on later. 
+
+The setup happens at the very start and is used to calibrate the robotic arm so that it is ready to start receiving inputs from the remote control. The setup itself is further divided into two main parts. The first part involves identifying what servos are connected to what digital inputs on the Arduino. Digital inputs can hold only 1 value: true or false, or 1 or 0 respectively. If the current value stored is a 1, it means that the remote control has prompted the servo, and it is currently using all 5 volts. If a 0 is stored, which is the default value, it means that the servo has not been prompted by the remote control, and is not moving. Then the second part of the setup function tells the robotic arm that, when it is turned on, all servos have to be set to their default position, which is at 90 degrees. The way that servos work is that they have a range of motion from 0 to 180 degrees. 90 degrees sets it right in the middle, so it has an equal choice of variability in movement in either direction. 
+
+The next function is the ongoing loop, and is the primary part of the code. If the joystick is moved, it reads the analog input based on how hard it is pressed in a particular direction. Analog inputs differ from digital inputs in the sense that instead of just true or false, they are able to hold a value from a range of values. In this particular case, the Arduino receives a value from 0 to 1023 inclusive, which is a total of 1024 values, or 2 to the 10th power. It is the maximum amount that an 8-bit __________ can hold. 
 
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
-- Previous challenges you faced that you overcame
+- Previous challenges you faced that you 
 - What needs to be completed before your final milestone 
 -->
 
