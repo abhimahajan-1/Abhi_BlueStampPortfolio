@@ -176,7 +176,7 @@ void loop() {
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 | Microprocessor | $24.50 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-
+| Arduino Breadboard | Used to build and test circuits without needing soldering | $3.99 | <a href="https://www.amazon.com/California-JOS-Breadboard-Solderless-Distribution/dp/B0BRQX6G3T/ref=sr_1_3?crid=3QVO161PQPXG7&dib=eyJ2IjoiMSJ9.1ls8NpzCX7erpkS91MNueGvDQHhOL5WZRm4J0uo10wLDOb5tQzHkcvK5crXJs7senxrA0aOWCF64tpA4yL9Rx_1bp8AaUiaKMNojNtD_Vec7sM1DEq2rrXt1DApEUJiMp4dQlp8aumK-xUAPlhp3jxYbri2LHNL8zoN8LSw4nKkooT-mkGP-ePHBOfz4Dytid2Xpqn4wnXL1Ws39GJxPP7lVwLEaEzNdR_305sR1kDI.K7eu0AgtXsl9kjS7RogGGrq7BVXZEQ9zNt_AeiN84aA&dib_tag=se&keywords=1%2Barduino%2Bbreadboard&qid=1719271293&sprefix=1%2Barduino%2Bbreadboard%2Caps%2C111&sr=8-3&th=1"> Link </a> |
 
 
 # References
