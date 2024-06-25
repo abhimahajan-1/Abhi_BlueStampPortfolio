@@ -139,7 +139,6 @@ void loop() {
 
 
 
-
 # Starter Project - Arduino
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ouj8QiF5I10?si=J2NXSLYyQtNMBuv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -177,6 +176,11 @@ void loop() {
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 | Microprocessor | $24.50 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Arduino Breadboard | Used to build and test circuits without needing soldering | $3.99 | <a href="https://www.amazon.com/California-JOS-Breadboard-Solderless-Distribution/dp/B0BRQX6G3T/ref=sr_1_3?crid=3QVO161PQPXG7&dib=eyJ2IjoiMSJ9.1ls8NpzCX7erpkS91MNueGvDQHhOL5WZRm4J0uo10wLDOb5tQzHkcvK5crXJs7senxrA0aOWCF64tpA4yL9Rx_1bp8AaUiaKMNojNtD_Vec7sM1DEq2rrXt1DApEUJiMp4dQlp8aumK-xUAPlhp3jxYbri2LHNL8zoN8LSw4nKkooT-mkGP-ePHBOfz4Dytid2Xpqn4wnXL1Ws39GJxPP7lVwLEaEzNdR_305sR1kDI.K7eu0AgtXsl9kjS7RogGGrq7BVXZEQ9zNt_AeiN84aA&dib_tag=se&keywords=1%2Barduino%2Bbreadboard&qid=1719271293&sprefix=1%2Barduino%2Bbreadboard%2Caps%2C111&sr=8-3&th=1"> Link </a> |
+| Male-to-Male Jumper Wires | Carry electrical current | $5.99 | <a href="https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FP517VM/ref=sr_1_1_sspa?crid=LCUI82M600W4&dib=eyJ2IjoiMSJ9.J-wwFzbORMmjviAOq4-tzg2626MVl2f-3kb0CxeTeVFVq2_-EF8W7lFJS7mf3NaSRD-h9TWAbL7hjcUhlqgJdpIVnGH4WqYXm_Q7zBhqKcJKAVJqvnnHD2pZ6NmcQaToU4pm3VDjXelJiEmij3YRYjci3WG6hIJ2uIfm9VUFmxtFcUQtsGWB8WhYt0WS8O7KHmGTY6kWmo_AkTxbDZ083jyuabbmEAmvIdhyMsQpEaI.aoW1rSBm57iJAHhXGfZPjpTMuOoitDczoQ9YSXxcWZ4&dib_tag=se&keywords=male+to+male+connectors+arduino&qid=1719346812&sprefix=male+to+male+connectors+arduino%2Caps%2C236&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Arduino Uno R3 ProtoShield | Platform for building and prototyping different circuits | $7.79 | <a href="https://www.amazon.com/HiLetgo-Prototype-Expansion-Breadboard-ProtoShield/dp/B00HHYBWPO/ref=sr_1_2_sspa?crid=SBE6NWREMN4G&dib=eyJ2IjoiMSJ9.RueWa5W4kdoR9En60mSkJg4VALsJTtKfG8oqmapI3-vUXmlePvQTurCjZi-UM7Qs0jIP2fu5bvHsvAQrBudv_DCzNXIqx9TrpwgZqhwT4zyOfdIqBiOcpua4qk1bWqT9a-nIsc8Z5KMJkgny4W9kABkXzJGXlXSD1mqIiYfjy3HzuHWAEcpARCHHLlIRinPsSNqLaKqtKCQtHCSqootmxx1cPhldpszokQTFtosWSvM.sWFVSF4YEqW_x4XDFFhN3nScxkiz6std_3blg-t8DwU&dib_tag=se&keywords=arduino+uno+r3+shield&qid=1719346983&sprefix=arduino+uno+r3+shiel%2Caps%2C141&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+
+
+
 
 
 # References
