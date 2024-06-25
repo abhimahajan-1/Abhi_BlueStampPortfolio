@@ -1,4 +1,4 @@
-# Muscle-Controlled Robotic Arm: Electromyography Interface
+ # Muscle-Controlled Robotic Arm: Electromyography Interface
 <!--
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 -->
@@ -27,6 +27,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you hope to learn in the future after everything you've learned at BSE
 -->
 
+# Final Milestone
+
+*Video coming soon
+
+The final modification of my project consists of making the robotic arm controlled through human muscle contractions, rather than a remote control. There are 3 new parts that I am using for this part of the project: electrodes, the electromyography (EMG) sensor module, and snap electrode cables. Basically, the entire idea is that the user will be able manipulate the different servos on the robotic arm through contracting certain muscles in their forearm. For this to happen effectively, all the 3 new parts play an important role. The elctrodes are connected to the user's forearm, and they take the bioelectrical signals received from the muscle and convert them to electrical signals. They then sends this to the EMG sensor module through the snap electrode cables. The role of the EMG module is to detect, amplify, and process these electrical signals. Once it has done so, it sends the input to the Arduino board for further processing. 
 
 # Second Milestone
 
