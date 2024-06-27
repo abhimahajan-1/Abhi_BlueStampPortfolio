@@ -1,4 +1,4 @@
-e# Muscle-Controlled Robotic Arm: Electromyography Interface
+# Muscle-Controlled Robotic Arm: Electromyography Interface
 
 Electromyography...but what exactly does that mean? It is the visual or audible representation of electrical signals that come from muscle stimulation. But how exactly can we detect and read these signals? Electrodes placed on the skin are responsible for converting bioelectrical signals from the muscles into electrical signals ready to be read and processed. In a nutshell, this information goes to a microprocessor, which then tells a robotic arm what part, and how much, to move. 
 
