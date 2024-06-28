@@ -50,7 +50,7 @@ The next function, the ongoing loop, is the primary part of the code. If the joy
 
 Lastly is the scaleJoyStick function, which does exactly what it is named. It scales down the input received from the remote control from 0-1023 into a readable value from 0-180. Based on the reading, it knows exactly how many degrees to turn the servo by. 
 
-There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered when one of its servos reached the end of its range of motion at 180 degrees, without the remote being pressed. After much questioning and rewriting of code, I realized it had to do something with the initial calibration of the servos. 
+There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered and outputted a varied amount of unprompted movements when one of its servos reached the end of its range of motion at 180 degrees. After much questioning and rewriting of the code, I realized it had to do something with the initial calibration of the servos. 
 
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
