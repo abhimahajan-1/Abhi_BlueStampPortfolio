@@ -39,7 +39,7 @@ Overall, my biggest challenge for this project was exploring concepts outside my
 
 Some of the key things I learned about throughout my project include Arduino and circuits (resistance, inductors, impedance, etc.), CAD, HTML, how to make a build-plan and effectively execute and adapt whenever something goes wrong, electromyography and how useful certain instances of it can be in the real world, and the prototyping process. 
 
-For the next step in my engineering journey, I would like to explore similar areas in robotics dealing with mechanical systems and their effect(s) on real-world problems. I believe practical applications are one of the most important things because the whole point of learning new concepts in engineering is being able to implement them in a real-world system to help better the status quo. I am actively looking for ways to implement what I have learned throughout the course of my engineering project 
+For the next step in my engineering journey, I would like to explore similar areas in robotics dealing with mechanical systems and their effect(s) on real-world problems. I believe practical applications are one of the most important things because the whole point of learning new concepts in engineering is being able to implement them in a real-world system to help better the status quo. I am actively looking for ways to implement what I have learned throughout the course of my engineering project to better my community. 
 
 # Second Milestone
 
