@@ -20,9 +20,6 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 <!--
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
@@ -35,7 +32,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 *Video coming soon
 
-For the last step of my project, there happened to be a shift in terms of the primary focus. The final modification of my project consists of making the robotic arm controlled through human muscle contractions, rather than through an app on a phone. There are 3 new parts that I am using for this part of the project: electrodes, the electromyography (EMG) sensor module, and snap electrode cables. Basically, the entire idea is that the user will be able to manipulate the different servos on the robotic arm by contracting certain muscles in their forearm. For this to happen effectively, all the 3 new parts play an important role. The electrodes are connected to the user's forearm, and they take the bioelectrical signals received from the muscle and convert them to electrical signals. They then send this to the EMG sensor module through the snap electrode cables. The role of the EMG module is to detect, amplify, and process these electrical signals. Once it has done so, it sends the input to the Arduino board for further processing. Based on the input that the Arduino receives, it decides what servo should move, and by how much.
+For the last step of my project, there happened to be a shift in the primary focus. The final modification of my project consists of making the robotic arm controlled through human muscle contractions, rather than through an app on a phone. There are 3 new parts that I am using for this part of the project: electrodes, the electromyography (EMG) sensor module, and snap electrode cables. The entire idea is that the user will be able to manipulate the different servos on the robotic arm by contracting certain muscles in their forearm. For this to effectively happen, all the 3 new parts play an important role. The electrodes are connected to the user's forearm, and their job is to take the bioelectrical signals received from the muscle and convert them to electrical signals. They then send these signals to the EMG sensor module through the snap electrode cables. The role of the EMG module is to detect, amplify, and process these electrical signals. Once it has done so, it sends the input to the Arduino board for further processing. Based on the input that the Arduino receives, it decides what servo should move, and by how much.
 
 # Second Milestone
 
@@ -52,14 +49,6 @@ Lastly is the scaleJoyStick function, which does exactly what it is named. It sc
 
 There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered and outputted a varied amount of unprompted movements when one of its servos reached the end of its range of motion at 180 degrees. After much questioning and rewriting of the code, I realized it had to do something with the initial calibration of the servos. 
 
-<!--
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you 
-- What needs to be completed before your final milestone 
--->
-
 
 # First Milestone
 
@@ -68,15 +57,6 @@ For your second milestone, explain what you've worked on since your previous mil
 My project is a robotic arm. The assembly consists of three primary parts: the power source, the Arduino Nano board, and the robotic arm itself. For the power source, I used 5 standard Double-A batteries, that were 1.5 volts each. Because I had to use a different power source than what the default was, I had to solder a couple of the wires from the battery holder to the Arduino unit to power the Nano. The Nano is placed right in the middle and works as the brain of the operation. All the electrical components ultimately connect to some part on the board. All the wires that come from the servos on the arm connect to digital inputs, while all the wires that come from the remote used to control the arm go into the analog inputs on the Nano. The difference is that digital values can only be one of two values: true or false. On the other hand, analog values have a wide range, and the current value can fall anywhere into that range. The reason the servos are connected to digital inputs is that, at a time, they can only be in one of two states: using all 5 volts, or no volts at all. So it turns out to be a binary value, only being either true or false. On the other hand, the controller hooks up to analog inputs since it can take a wide array of inputs from any degree of movement from the joystick.
 
 I had 2 major challenges throughout this phase of the project, the first one being the change in battery source. I had to improvise with 5, 1.5-volt, Double-A batteries rather than using 2, 3.7-volt batteries. The other challenge was that the base of the robotic arm was unstable. This was a critical problem because it was impairing the performance of the servos, and ultimately, the whole arm - since the servos are entirely responsible for the mobility of the arm. I decided to hot glue the base for overall stability, and it worked exceptionally well. Because the base was completely sturdy, the joints could move without the worry of the entire arm potentially collapsing. 
-
-<!--
-For your first milestone, describe what your project is and how you build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-
--->
 
 
 # Schematics
