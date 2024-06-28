@@ -13,8 +13,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
-
-<img src = "Abhi_M.JPG" width = "300" height = "400" align = "middle">
+<p align = "center">
+ <img src = "Abhi_M.JPG" width = "300" height = "400" align = "middle">
+</p>
 
 <!--
 # Final Milestone
@@ -79,13 +80,11 @@ For your first milestone, describe what your project is and how you build it. Yo
 
 
 # Schematics
-<p align = "center">
- <img src = "schematics_3.png" width = "703" height = "388.5">
- <img src = "schematics_4.png" width = "703" height = "388.5">
- <img src = "schematics_5.png" width = "703" height = "388.5">
- <img src = "schematics_2.png" width = "703" height = "388.5">
- <img src = "schematics_1.png" width = "703" height = "388.5">
-</p>
+<img src = "schematics_3.png" width = "703" height = "388.5">
+<img src = "schematics_4.png" width = "703" height = "388.5">
+<img src = "schematics_5.png" width = "703" height = "388.5">
+<img src = "schematics_2.png" width = "703" height = "388.5">
+<img src = "schematics_1.png" width = "703" height = "388.5">
 
 
 
