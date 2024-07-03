@@ -70,7 +70,6 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 <img src = "schematics_3.png" width = "703" height = "388.5">
 <img src = "schematics_4.png" width = "703" height = "388.5">
 <img src = "schematics_5.png" width = "703" height = "388.5">
-<img src = "schematics_2.png" width = "703" height = "388.5">
 <img src = "schematics_1.png" width = "703" height = "388.5">
 
 
