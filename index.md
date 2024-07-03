@@ -60,6 +60,7 @@ There were a couple of challenges I faced throughout the course of the second mi
 Figure 1: 0-180 degrees servo range of motion
 
 
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FWRxd0kS98?si=ZkONE2Y5-EbJ_WSX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
