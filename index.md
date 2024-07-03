@@ -84,7 +84,6 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 <br>
 
 
-
 # Code
 ```c++
 Servo myservo1;  // Create a servo class
