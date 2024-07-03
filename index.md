@@ -73,18 +73,15 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 
 # Schematics
 <img src = "schematics_3_revised.png" width = "703" height = "388.5"> <br>
-<font size="3"> Figure 2: Visual of remote control and servos' exact wiring input ports </font>
-<br> 
+<font size="2"> Figure 2: Visual of remote control and servos' exact wiring input ports </font>
 <br>
 
 <img src = "schematics_5_revised.png" width = "703" height = "388.5"> <br>
-<font size="3"> Figure 3: Configuration of the Arduino Nano and power source </font>
-<br>
+<font size="2"> Figure 3: Configuration of the Arduino Nano and power source </font>
 <br>
  
 <img src = "schematics_1.png" width = "703" height = "388.5"> <br>
-<font size="3"> Figure 4: Composition of an Arduino Nano board </font>
-<br>
+<font size="2"> Figure 4: Composition of an Arduino Nano board </font>
 <br>
 
 
