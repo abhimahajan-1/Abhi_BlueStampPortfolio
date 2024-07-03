@@ -54,7 +54,10 @@ The next function, the ongoing loop, is the primary part of the code. If the joy
 
 Lastly is the scaleJoyStick function, which does exactly what it is named. It scales down the input received from the remote control from 0-1023 into a readable value from 0-180. Based on the reading, it knows exactly how many degrees to turn the servo by. 
 
-There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered and outputted a varied amount of unprompted movements when one of its servos reached the end of its range of motion at 180 degrees. After much questioning and rewriting of the code, I realized it had to do something with the initial calibration of the servos. 
+There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered and outputted a varied amount of unprompted movements when one of its servos reached the end of its range of motion at 180 degrees. After much questioning and rewriting of the code, I realized it had to do something with the initial calibration of the servos.
+
+<img src = "schematics_4.png" width = "703" height = "388.5">
+Figure 1: 0-180 degrees servo range of motion
 
 
 # First Milestone
@@ -68,9 +71,13 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 
 # Schematics
 <img src = "schematics_3_revised.png" width = "703" height = "388.5">
-<img src = "schematics_4.png" width = "703" height = "388.5">
+Figure 2: Visual of remote control and servos' exact wiring input ports
+
 <img src = "schematics_5_revised.png" width = "703" height = "388.5">
+Figure 3: Orientation of the Arduino Nano's ports, including where the power source connects to
+
 <img src = "schematics_1.png" width = "703" height = "388.5">
+Figure 4: Composition of an Arduino Nano board
 
 
 
