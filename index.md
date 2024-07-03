@@ -74,13 +74,16 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 <img src = "schematics_3_revised.png" width = "703" height = "388.5">
 <br> Figure 2: Visual of remote control and servos' exact wiring input ports
 <br>
+<br>
 
 <img src = "schematics_5_revised.png" width = "703" height = "388.5">
 <br> Figure 3: Orientation of the Arduino Nano's ports, including where the power source connects
 <br>
+<br>
  
 <img src = "schematics_1.png" width = "703" height = "388.5">
 <br> Figure 4: Composition of an Arduino Nano board
+<br>
 <br>
 
 
