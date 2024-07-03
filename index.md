@@ -56,8 +56,8 @@ Lastly is the scaleJoyStick function, which does exactly what it is named. It sc
 
 There were a couple of challenges I faced throughout the course of the second milestone. I had to iterate through different versions of the code because one small issue could be the difference between a single servo working versus malfunctioning. At one point, the robotic arm stuttered and outputted a varied amount of unprompted movements when one of its servos reached the end of its range of motion at 180 degrees. After much questioning and rewriting of the code, I realized it had to do something with the initial calibration of the servos.
 
-<img src = "schematics_4.png" width = "703" height = "388.5">
-<br> Figure 1: 0-180 degrees servo range of motion
+<img src = "schematics_4.png" width = "703" height = "388.5"> <br>
+<font size="1"> Figure 1: 0-180 degrees servo range of motion </font>
 
 
 
