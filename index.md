@@ -60,7 +60,6 @@ There were a couple of challenges I faced throughout the course of the second mi
 <img src = "schematics_4.png" width = "703" height = "388.5"> <br>
 <font size="2"> Figure 1: 0-180 degrees servo range of motion </font>
 <br>
-<br>
 
 
 # First Milestone
