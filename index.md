@@ -76,7 +76,7 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 <br>
 
 <img src = "schematics_5_revised.png" width = "703" height = "388.5">
-<br> Figure 3: Orientation of the Arduino Nano's ports, including where the power source connects to
+<br> Figure 3: Orientation of the Arduino Nano's ports, including where the power source connects
 <br>
  
 <img src = "schematics_1.png" width = "703" height = "388.5">
