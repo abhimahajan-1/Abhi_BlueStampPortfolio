@@ -72,7 +72,7 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 
 # Schematics
 <img src = "schematics_3_revised.png" width = "703" height = "388.5"> <br>
-<font size="35"><p>Figure 2: Visual of remote control and servos' exact wiring input ports</p></font>
+<font size="5"> Figure 2: Visual of remote control and servos' exact wiring input ports </font>
 <br> 
 <br>
 
