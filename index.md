@@ -87,6 +87,102 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 
 # Code
 ```c++
+#include <Servo.h>
+
+struct pose{
+  float s1;
+  float s2;
+  float s3;
+  float s4;
+
+  pose lerp(pose destination, float progress){
+    pose between;
+    between.s1 = this->s1+(destination.s1-this->s1)*(progress);
+    between.s2 = this->s2+(destination.s2-this->s2)*(progress);
+    between.s3 = this->s3+(destination.s3-this->s3)*(progress);
+    between.s4 = this->s4+(destination.s4-this->s4)*(progress);
+
+    return between;
+  }
+
+};
+
+float avg[10];
+
+Servo myservo1;  // Create a servo class
+Servo myservo2;  // Create a servo class
+Servo myservo3;  // Create a servo class
+Servo myservo4;  // Create a servo class
+
+pose begin;
+pose end;
+
+void setup() {  
+  Serial.begin(9600);
+ myservo1.attach(4);  // Set the servo control pin as D4
+ myservo2.attach(5);  // Set the servo control pin as D5
+ myservo3.attach(6);  // Set the servo control pin as D6
+ myservo4.attach(7);  // Set the servo control pin as D7
+ delay(50);           // delay 50 milliseconds 
+
+ myservo1.write(90);  // The servo is 90 degrees
+ myservo2.write(90);  // The servo is 90 degrees
+ myservo3.write(90);  // The servo is 90 degrees
+ myservo4.write(90);  // The servo is 90 degrees
+ delay(50);           // wait 50 milliseconds 
+
+ begin.s1 = 90;
+ begin.s2 = 90;
+ begin.s3 = 90;
+ begin.s4 = 90;
+
+ end.s1 = 90;
+ end.s2 = 110;
+ end.s3 = 0;
+ end.s4 = 180;
+
+}
+
+
+void loop() {
+  float reading = analogRead(A0);
+  reading = 1-reading/400.f;
+
+  if(reading>1){
+    reading = 1;
+  }
+  else if(reading < 0){
+    reading = 0;
+  }
+
+  for(int i = 0; i<=8; i++){
+    avg[i] = avg[i+1];
+  }
+  
+  avg[9] = reading;
+  float sum = 0;
+
+  for(int i = 0; i<10; i++){
+    sum += avg[i];
+  }
+
+  sum /= 10;
+
+  pose current = begin.lerp(end, sum);
+  myservo1.write(current.s1);
+  myservo2.write(current.s2);
+  myservo3.write(current.s3);
+  myservo4.write(current.s4);
+  Serial.println(reading);
+
+ delay(30); // wait 20 milliseconds
+
+ }
+```
+
+
+
+```c++
 Servo myservo1;  // Create a servo class
 Servo myservo2;  // Create a servo class
 Servo myservo3;  // Create a servo class
