@@ -86,7 +86,6 @@ I had 2 major challenges throughout this phase of the project, the first one bei
 
 
 # Code
-Primary Project Code
 ```c++
 struct pose{
   float s1;
@@ -180,7 +179,6 @@ void loop() {
 ```
 
 
-Starter Project Code
 ```c++
 Servo myservo1;  // Create a servo class
 Servo myservo2;  // Create a servo class
