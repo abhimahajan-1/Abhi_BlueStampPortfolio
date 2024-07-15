@@ -13,9 +13,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
-<p align = "center">
- <img src = "Abhi_M.JPG" width = "300" height = "400" align = "middle">
-</p>
+<img src = "Final1.jpg" width = "400" height = "300">
+<img src = "Final2.jpg" width = "400" height = "300">
+
 
 <!--
 # Final Milestone
