@@ -13,8 +13,8 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Abhi M | Saint Francis High School | Mechanical Engineering and Computer Science | Incoming Senior
 
-<img src = "Final1.jpg" width = "400" height = "300">
 <img src = "Final2.jpg" width = "400" height = "300">
+<img src = "Final1.jpg" width = "400" height = "300">
 
 
 <!--
