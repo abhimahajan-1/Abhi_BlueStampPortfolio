@@ -30,9 +30,6 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Final Milestone
 
-*Video coming soon
-
-
 For the last step of my project, there happened to be a shift in the primary focus. The final modification of my project consists of making the robotic arm controlled through human muscle contractions, rather than through an app on a phone. There are 3 new parts that I am using for this part of the project: electrodes, the electromyography (EMG) sensor module, and snap electrode cables. The entire idea is that the user will be able to manipulate the different servos on the robotic arm by contracting certain muscles in their forearm. For this to effectively happen, all the 3 new parts play an important role. The electrodes are connected to the user's forearm, and their job is to take the bioelectrical signals received from the muscle and convert them to electrical signals. They then send these signals to the EMG sensor module through the snap electrode cables. The role of the EMG module is to detect, amplify, and process these electrical signals. Once it has done so, it sends the input to the Arduino board for further processing. Based on the input that the Arduino receives, it decides what servo should move, and by how much.
 
 Overall, my biggest challenge for this project was exploring concepts outside my comfort zone. I had to use lots of patience and troubleshooting strategies when procedures did not go as planned. Some of these approaches included revisiting code, rewiring electrical circuits, and taking apart and putting back together mechanical parts for better functionality and efficiency (specifically the servos). Some of my biggest triumphs included finishing the mechanical and electrical assembly of the robotic arm, writing the servo code from scratch, and integrating an electromyographic system to potentially make the project more engaging for  users. 
